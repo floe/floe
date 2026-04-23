@@ -1,5 +1,7 @@
 ### Hello there 👋
 
+I've been migrating a lot of stuff to [Codeberg](https://codeberg.org/floe), so if some repository seems to be missing here, it might have moved over already.
+
 <!--
 **floe/floe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
